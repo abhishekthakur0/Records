@@ -1,0 +1,14 @@
+C:\Users\kumar\source\repos\Records\bin\Debug\Records.exe.config
+C:\Users\kumar\source\repos\Records\bin\Debug\Records.exe
+C:\Users\kumar\source\repos\Records\bin\Debug\Records.pdb
+C:\Users\kumar\source\repos\Records\bin\Debug\Records.xml
+C:\Users\kumar\source\repos\Records\obj\Debug\Records.vbprojAssemblyReference.cache
+C:\Users\kumar\source\repos\Records\obj\Debug\Records.Form1.resources
+C:\Users\kumar\source\repos\Records\obj\Debug\Records.Resources.resources
+C:\Users\kumar\source\repos\Records\obj\Debug\Records.vbproj.GenerateResource.cache
+C:\Users\kumar\source\repos\Records\obj\Debug\Records.vbproj.CoreCompileInputs.cache
+C:\Users\kumar\source\repos\Records\obj\Debug\Records.exe
+C:\Users\kumar\source\repos\Records\obj\Debug\Records.xml
+C:\Users\kumar\source\repos\Records\obj\Debug\Records.pdb
+C:\Users\kumar\source\repos\Records\bin\Debug\RDatabase.mdf
+C:\Users\kumar\source\repos\Records\bin\Debug\RDatabase_log.ldf
